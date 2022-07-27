@@ -30,6 +30,17 @@ public class Practice {
 		System.out.printf("사원이메일: %s\n", jimin.email);
 		System.out.printf("사원전화번호: %s\n", jimin.tel);
 		System.out.printf("정규직: %s\n", jimin.flag);
+		
+		
+//		//강사님 코드
+//		System.out.println("<<사원정보>>");
+//		System.out.println("사원번호 : " + jimin.empno);
+//	    System.out.println("사원이름 : " + jimin.ename);
+//	    System.out.println("사원나이 : " + (2022 - jimin.birthYear + 1));
+//	    System.out.println("사원월급 : " + jimin.salary + "만원");
+//	    System.out.println("사원이메일 : " + jimin.email);
+//	    System.out.println("사원전화번호 : " + jimin.tel);
+//	    System.out.println("정규직 : " + jimin.flag);
 	}
 
 }
