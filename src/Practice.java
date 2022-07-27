@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 public class Practice {
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		Employee jimin = new Employee();
+		
 
 		System.out.print("사원번호: ");
 		jimin.empno = sc.nextInt();
